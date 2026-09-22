@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @tori3hack
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# tori3
 
-<!---
-tori3hack/tori3hack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+個人ではじめてのものを、ここで少しずつ置いていきます。
+
+興味があるのは Web3 と AI です。まだ何を作るかは決めていません。まずはこのページを、自分の置き場として整えています。
+
+## いま
+
+- Web3 と AI に関心があります
+- 個人のプロジェクトを立ち上げたところです
+- 公開できるものができたら、下にリンクを足します
+
+## 置いてあるもの
+
+まだありません。
+
+## 連絡
+
+- X: [@bitbird20](https://x.com/bitbird20)
